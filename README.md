@@ -16,6 +16,11 @@ Your input is appreciated. Feel free to file a GitHub Issue, a Pull Request, or 
 
 ## Example
 
+```json
+{
+}
+```
+
 ## Introduction
 
 ## Philosophy
