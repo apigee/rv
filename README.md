@@ -1,4 +1,4 @@
-![RV](https://github.com/apigee/rv/images/rv.png)
+![RV](https://github.com/apigee/rv/blob/master/images/rv.png)
 rv
 ==
 
