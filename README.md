@@ -1,4 +1,4 @@
-![RV](https://github.com/apigee/rv/blob/master/images/rv.png)
+![RV](/images/rv.png?raw=true)
 rv
 ==
 
